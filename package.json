@@ -18,7 +18,8 @@
     "drop",
     "enum",
     "enumerate",
-    "iterable"
+    "iterable",
+    "list"
   ],
   "author": {
     "name": "Daniel Eckermann",
